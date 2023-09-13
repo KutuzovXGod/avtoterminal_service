@@ -40,6 +40,12 @@ hr{
 
 }
 
+.time {
+    margin: 0px 0px 100px 1150px;
+    font-family: 'Geologica', sans-serif;
+    font-size: 12px
+}
+
 
 /*Container*/
 .container{
@@ -104,7 +110,7 @@ margin: 0 auto;
 .header{
     width: 100%;
     top: 0;
-    padding-top: 30px;
+    padding-top: 40px;
     position: absolute;
     left: 0;
     right: 0;
