@@ -209,14 +209,14 @@ margin-left: 320px;
 
 
 .section--map{
-    background: #e6e6e6 url(../images/map--bg.jpg) center no-repeat;
+
     padding: 40px 0;
     background-size: cover;
 }
 
 .section--devices{
     margin-bottom: 40px;
-    background: url(../images/bg.jpg) center no-repeat;
+
     background-size: cover;
     padding-bottom: 0;
 }
