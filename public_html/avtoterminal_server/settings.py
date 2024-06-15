@@ -118,8 +118,8 @@ USE_TZ = True
 
 
 STATIC_URL = '/static/'
-STATIC_ROOT = '/home/c/cc36217/newsite/public_html/static'
-STATICFILES_DITS = []
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATICFILES_DIRS = []
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
